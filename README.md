@@ -1,4 +1,4 @@
-<h1 align="center"> Discord Music Bot
+<h1 align="center"> Thundric Music Bot
 
 
 ## Latest Updates
